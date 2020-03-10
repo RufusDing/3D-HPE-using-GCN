@@ -2,7 +2,8 @@
 Research of Weight Sharing mechanism of GCN on 3D HPE
 
 ## Weight Sharing Mechanism
-1. Full-sharing  
+
+1.Full-sharing  
 
 2.Pre-aggregation
 
